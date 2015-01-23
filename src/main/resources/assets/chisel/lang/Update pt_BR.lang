@@ -1,0 +1,122 @@
+# Key localizations
+
+# Item localizations
+item.chisel.chisel_iron.name=Chisel
+
+item.chisel.chisel.desc.gui=Botão direito para abrir a GUI.
+item.chisel.chisel.desc.lc1=Botão esquerdo para blocos Chisel em seu mundo
+item.chisel.chisel.desc.lc2=Você direcionar um bloco, deixando-o no inventário.
+item.chisel.chisel.desc.modes=Existem vários modos de chiseling.
+
+item.chisel.chisel_diamond.name=Chisel de Diamante
+
+item.ballMoss.name=Bola de Musgo
+item.ballMoss.desc=Bloco direito para atirar. Isto vai fazer com que Pedregulho vire Bloco de Musgo no impacto.
+item.cloudBottle.name=Nuvem em uma Garrafa
+item.cloudBottle.desc=Botão direito para atirar. Isto vai fazer com que nuvens nascem.
+item.smashingRock.name=Pedra Esmagadora
+item.smashingRock.desc=Botão direito para atirar. Isto vai fazer com que Pedregulho vire Cascalho, Cascalho para Areia, etc,  no impacto.
+item.upgrade_speed.name=Upgrade de Velocidade
+item.upgrade_automation.name=Upgrade de Automação
+item.upgrade_stack.name=Upgrade de Stack
+
+item.upgrade_speed.desc=Aumenta a taxa de velocidade à qual ele funciona.
+item.upgrade_automation.desc=Permite que o Auto Chisel empurre coisas para dentro e para fora.
+item.upgrade_stack.desc=Permite que você fabrique Stacks de cada vez.
+
+# Block localizations
+# Have fun! ~zombiepig333
+
+#Chisel 2
+
+#AntiBlocks
+tile.antiBlock.name=Anti-Bloco
+tile.antiBlock.black.desc=Anti-Bloco Preto
+tile.antiBlock.blue.desc=Anti-Bloco Azul
+tile.antiBlock.brown.desc=Anti-Bloco Marrom
+tile.antiBlock.cyan.desc=Anti-Bloco Ciano
+tile.antiBlock.green.desc=Anti-Bloco Verde
+tile.antiBlock.light_blue.desc=Anti-Bloco Azul Claro
+tile.antiBlock.silver.desc=Anti-Bloco Prata
+tile.antiBlock.lime.desc=Anti-Bloco Lima
+tile.antiBlock.magenta.desc=Anti-Bloco Magenta
+tile.antiBlock.orange.desc=Anti-Bloco Laranja
+tile.antiBlock.pink.desc=Anti-Bloco Rosa
+tile.antiBlock.purple.desc=Anti-Bloco Roxo
+tile.antiBlock.red.desc=Anti-Bloco Vermelho
+tile.antiBlock.white.desc=Anti-Bloco Branco
+tile.antiBlock.yellow.desc=Anti-Bloco Amarelo
+tile.antiBlock.gray.desc=Anti-Bloco Cinza
+
+#Diorito
+tile.diorite.name=Diorito
+tile.diorite.0.desc=Gerado em seu mundo
+tile.diorite.1.desc=Diorito Polido
+
+#Andesite
+tile.andesite.name=Andesita
+tile.andesite.0.desc=Gerado em seu mundo
+tile.andesite.1.desc=Andesita Polida
+
+#Granito
+tile.granite.name=Granito
+tile.granite.0.desc=Gerado em seu mundo
+tile.granite.1.desc=Granito Polido
+
+#Auto Chisel
+tile.autoChisel.name=Auto Chisel
+autochisel.slot.chisel.tooltip=Chisel Entalhe
+autochisel.slot.target.tooltip=Alvo de Entalhe
+
+#Leaves
+tile.leaves.6.desc=Folhas Mortas
+tile.leaves.7.desc=Folhas Grandes
+tile.leaves.8.desc=Pétalas Rosas
+tile.leaves.9.desc=Rosa Vermelha
+tile.leaves.10.desc=Rosa Branca
+tile.leaves.11.desc=Bolas de Natal
+tile.leaves.12.desc=Luzes de Natal
+
+#Void Stone Blocks
+tile.voidstone.name=Pedra do Vazio
+tile.voidstone.0.desc=Pedra do Vazio Bruta
+tile.voidstone.1.desc=Telhas da Pedra do Vazio Largas
+tile.voidstone.2.desc=Pedra do Vazio Suave
+tile.voidstone.3.desc=Pedra do Vazio de Crânio
+tile.voidstone.4.desc=Pedra do Vazio Rúnica
+tile.voidstone.5.desc=Pedra do Vazio com Metal-Limitado
+tile.voidstone.6.desc=Pedra do Vazio com Olho
+tile.voidstone.7.desc=Pedra do Vazio Chanfrada
+
+#Void Stone Pillars
+tile.voidstonePillar.name=Pilar da Pedra do Vazio
+tile.voidstonePillar.0.desc=Pilar Listrado da Pedra do Vazio
+
+-#Warning
+tile.warningSign.name=Placa de Aviso
+tile.warningSign.0.desc=Radiação
+tile.warningSign.1.desc=Perigo Biológico
+tile.warningSign.2.desc=Fogo
+tile.warningSign.3.desc=Explosão
+tile.warningSign.4.desc=Morte
+tile.warningSign.5.desc=Queda de Objetos
+tile.warningSign.6.desc=Perigo de Queda
+tile.warningSign.7.desc=Alta Voltagem
+tile.warningSign.8.desc=Aviso Genérico
+tile.warningSign.9.desc=Produtos Químicos Perigosos
+tile.warningSign.10.desc=Em construção
+tile.warningSign.11.desc=Sons Altos
+tile.warningSign.12.desc=Entrada Proibida
+tile.warningSign.13.desc=Congelamento Criogênico em progresso
+tile.warningSign.14.desc=Oxigênio Necessário
+
+#Energised Void Stone Blocks
+tile.voidstone2.name=Energised Voidstone
+tile.voidstone2.0.desc=Raw Energised Voidstone
+tile.voidstone2.1.desc=Large Energised Voidstone Tiles
+tile.voidstone2.2.desc=Smooth Energised Voidstone
+tile.voidstone2.3.desc=Skull Energised Voidstone
+tile.voidstone2.4.desc=Runic Energised Voidstone
+tile.voidstone2.5.desc=Metal-Bordered Energised Voidstone
+tile.voidstone2.6.desc=Eye Energised Voidstone
+tile.voidstone2.7.desc=Beveled Voidstone
